@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-👋
-
 ⚒️ Мой стек:
-HTML5 CSS3 Pug SASS
-JavaScript jQuery React Vue.js
-NodeJS Express.js
+HTML5
+CSS3
+SASS
+JavaScript 
+React
+NodeJS
+Express.js
 
 Webpack Gulp NPM Git MongoDB Postman
 
