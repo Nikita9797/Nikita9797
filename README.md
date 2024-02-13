@@ -1,6 +1,17 @@
 ### Hi there 👋
 
 👋
+
+⚒️ Мой стек:
+HTML5 CSS3 Pug SASS
+JavaScript jQuery React Vue.js
+NodeJS Express.js
+
+Webpack Gulp NPM Git MongoDB Postman
+
+Visual Studio Code CodePen
+
+Adobe Photoshop Figma
 <!--
 **Nikita9797/Nikita9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
