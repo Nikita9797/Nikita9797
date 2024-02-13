@@ -15,6 +15,10 @@ MongoDB
 Postman  
 Visual Studio Code   
 Figma
+
+📫 Мои контакты:  
+Почта:  nikita.karpov.97@yandex.ru  
+Telegram:  @Nikita_2797
 <!--
 **Nikita9797/Nikita9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
