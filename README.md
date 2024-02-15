@@ -1,6 +1,7 @@
 ### Привет! Я frontend-разработчик 👋
 
 ⚒️ Мой стек:
+![Image alt](https://github.com/)
 HTML5  
 CSS3  
 SASS  
